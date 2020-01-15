@@ -1,0 +1,20 @@
+{
+  "name": "data-warehouse-front",
+  "version": "1.0.0",
+  "description": "data-warehouse-front nuxt.js app",
+  "author": "Ewelina Machnik, Łukasz Kurnik",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
